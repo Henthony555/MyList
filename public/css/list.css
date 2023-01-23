@@ -62,6 +62,10 @@
     justify-content: center;
 }
 
+.refres{
+    margin-right: 1rem;
+}
+
 .container{
     min-height: 90vh;
 }

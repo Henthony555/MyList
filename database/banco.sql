@@ -1,9 +1,15 @@
 /*
- mysql -u root -p
- CREATE DATABASE MyList;
- USE MyList;
- --Criar tebela abaixo--
- SELECT * FROM alunos;
+ 1- Entra no MySQL:
+  mysql -u root -p
+
+ 2- Criar o banco "MyList":
+  CREATE DATABASE MyList;
+ 
+ 3- Usar o "MyList" criado:
+  USE MyList;
+
+ 4- Criar a tabela "alunos" dentro do banco "MyList": 
+  -Rodar o comando CREATE e INSERT abaixo-
 */
 
 create table alunos (
