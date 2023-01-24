@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Projeto CRUD com express, mysql2, ejs ...
 ## Dependências necessárias para o projeto
 **MySQL server**\
@@ -15,5 +13,3 @@ Primeiro temos que criar o banco MyList no seu PC, para isso vá à pasta **data
 **Henthony Guilherme**\
 **Sabrina Izabelly**\
 **Ana Clarice**
-
->>>>>>> 73e3de9529983cc190efb01036ef567e77740616
